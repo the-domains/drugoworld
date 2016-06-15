@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[DruGoWorld]]></title>
+        <description><![CDATA[DruGoWorld]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 15 Jun 2016 16:57:58 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Calciomercato, Allegri: "La Juventus vuole tenere Pogba e Morata"]]></title>
+            <description><![CDATA[<article><h1>Calciomercato, Allegri: "La Juventus vuole tenere Pogba e Morata"</h1><p>Il tecnico bianconero a Livorno impegnato con il "Mr Allegri junior camp": "Berardi? Mi è dispiaciuto che abbia scelto di restare al Sassuolo. Pjanic migliora lo spessore del nostro centrocampo" twitta LIVORNO - Massimiliano Allegri è già in campo. Non a Vinovo, ma nella sua Livorno, al centro sportivo Armando Picchi.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d43b3925e74cd486fc4ae7f4ca2e71ec/noop.jpg?input=http%3A%2F%2Fcdn.tuttosport.com%2Fimages%2F2016%2F06%2F15%2F155837292-c335e3cd-46b8-4cd4-801c-9135b0055efd.jpg"></article>]]></description>
+            <link>http://www.tuttosport.com/news/calcio/euro-2016/visti-dal-mister/2016/06/15-12490330/calciomercato_allegri_la_juventus_vuole_tenere_pogba_e_morata/</link>
+            <guid isPermaLink="false">e7d18a9c-39d0-4f23-8979-9162a4e455d2</guid>
+            <pubDate>Wed, 15 Jun 2016 16:57:57 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
