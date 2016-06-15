@@ -1,0 +1,14 @@
+layout_spectrum: 0.7466632390860468
+typography_spectrum: 0.5094972352962941
+color:
+  brandStrength: 0.3275528633967042
+  lightness: 0.779517357936129
+  saturation: 0.6643894482403994
+  rhythmicContrast: 0.038766113109886646
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: DruGoWorld
